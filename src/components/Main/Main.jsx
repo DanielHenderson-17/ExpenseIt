@@ -30,7 +30,7 @@ const Main = () => {
       }}
     >
       <img
-        src="https://images.cooltext.com/5550937.png"
+        src="https://i.ibb.co/Lg9WrhP/expenseitlogo.png"
         width="381"
         height="141"
         alt="Expense It! "
